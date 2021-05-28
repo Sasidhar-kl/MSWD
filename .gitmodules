@@ -1,0 +1,3 @@
+[submodule "mswd"]
+	path = mswd
+	url = https://github.com/Sasidhar-kl/MSWD.git
